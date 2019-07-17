@@ -1,1 +1,3 @@
-# LightDeflection
+This is a simple VPython simulation demonstrating the gravitational deflection of light and gravitational redshift. The model uses a Newtonian approximation by treating a photon as a particle accelerated by the gravitational force of a black hole. The Newtonian deflection angle, observed in the simulation, is 1/2 of the GR deflection angle. Furthermore, while photons cannot truly be accelerated past c, gravitational redshift occurs, as represented visually in the simulation.
+
+This simulation is useful to introduce basic numerical methods, the role of approximation in physics, Newtonian gravitational phenomena, and qualitative GR / astrophysics concepts (gravitational lensing, redshift, black holes, etc).
